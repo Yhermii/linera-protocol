@@ -2,8 +2,9 @@
 
 ## Basics
 
-* Xcode command line tools
-    - `xcode-select --install`
+**Install Xcode Command Line Tools:**
+    ```bash
+    xcode-select --install
 * Homebrew
     - If possible, install in user land e.g. in `$HOME/git/homebrew`
     - See https://docs.brew.sh/Installation#untar-anywhere
